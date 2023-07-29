@@ -16,7 +16,7 @@
 ### Ссылки
 
 - URL решения: [Github](https://github.com/MikeBeloborodov/nado_sdelat_idelano)
-- URL лайв сервера: [Netlify](https://hilarious-cat-b2586e.netlify.app/)
+- URL лайв сервера: [Netlify](https://fancy-rolypoly-0e3c7e.netlify.app/)
 
 ## Автор
 
